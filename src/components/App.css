@@ -1,0 +1,111 @@
+/* Styles go here */
+body {
+  background-color: rgb(155, 155, 142);
+  
+}
+
+
+
+  
+
+
+
+.title {
+  margin-left: 100px;
+  
+}
+
+.container {
+  height: 500px;
+  width: 1000px;
+  margin: 0 auto;
+  position: relative;
+}
+.child {
+  position: fixed;
+  
+  top: 120px;
+  right: 150px;
+  width: 600px;
+ 
+}
+.photo {
+margin-top: 100px;
+  height: 150px;
+  width: 150px;
+  
+}
+.listing {
+  background-color:  #bbc0c0;
+  
+  position: fixed;
+  top: 100px;
+  left: 10px;
+  width: 500px;
+  border: 3px solid #bae77b;
+  
+
+}
+.container-form {
+  background-color:  #bbc0c0;
+  position: fixed;
+  top: 530px;
+  right: 110px;
+  width: 640px;
+  border: 3px solid #c5eb91d7;
+  border-style: inset;
+  
+
+  
+}
+ul.list{
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  color: #161610;
+}
+.list{
+  text-align: left;
+  
+    
+}
+h2 {
+  color: rgb(24, 108, 141);
+  border: 3px solid rgb(125, 185, 118);
+  font-family: "Cursive", Times, serif;
+  left: 10px;
+}
+.but {
+  background-color: #161610; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 630px;
+}
+h3 {
+  color: rgb(24, 108, 141);
+  font-family: "Cursive", Times, serif;
+  
+ 
+}
+.line{
+  position:relative;
+   left: 50px;
+    top:0px;
+    border: 3px solid rgb(214, 211, 52);
+     
+}
+.list {
+  margin:4px, 4px;
+  padding:4px;
+  
+  width: 500px;
+  height: 210px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align:justify;
+}
